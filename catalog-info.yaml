@@ -4,6 +4,7 @@ metadata:
   name: backstage-tutorial
   annotations:
     github.com/project-slug: Relers/backstage-tutorial
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
